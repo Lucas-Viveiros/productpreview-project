@@ -1,1 +1,1 @@
-{"version":3,"sourceRoot":"","sources":["../sass/style.scss"],"names":[],"mappings":"AAEQ;AAER;EACE;EACA;EACA;EACA;;;AAGF;EACE;EACA;EACA;EACA;EACA;EACA;EACA;EACA;;AAEA;EACE","file":"style.css"}
+{"version":3,"sourceRoot":"","sources":["../sass/style.scss","../sass/variables/colors.scss"],"names":[],"mappings":"AAEQ;AAER;EACE;EACA;EACA;EACA;;;AAGF;AAAA;EAEE,kBCbS;EDcT;EACA;;;AAEF;EACE;EACA;EACA;;AAGI;EACE;EACA;;AAEF;EACE;EACA;EAEA","file":"style.css"}
